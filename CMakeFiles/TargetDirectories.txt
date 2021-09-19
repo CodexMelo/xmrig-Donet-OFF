@@ -1,0 +1,15 @@
+/home/codex/Downloads/xmrig-6.15.0/build/CMakeFiles/rebuild_cache.dir
+/home/codex/Downloads/xmrig-6.15.0/build/CMakeFiles/edit_cache.dir
+/home/codex/Downloads/xmrig-6.15.0/build/CMakeFiles/xmrig.dir
+/home/codex/Downloads/xmrig-6.15.0/build/CMakeFiles/xmrig-asm.dir
+/home/codex/Downloads/xmrig-6.15.0/build/src/3rdparty/argon2/CMakeFiles/rebuild_cache.dir
+/home/codex/Downloads/xmrig-6.15.0/build/src/3rdparty/argon2/CMakeFiles/argon2.dir
+/home/codex/Downloads/xmrig-6.15.0/build/src/3rdparty/argon2/CMakeFiles/argon2-avx512f.dir
+/home/codex/Downloads/xmrig-6.15.0/build/src/3rdparty/argon2/CMakeFiles/argon2-avx2.dir
+/home/codex/Downloads/xmrig-6.15.0/build/src/3rdparty/argon2/CMakeFiles/edit_cache.dir
+/home/codex/Downloads/xmrig-6.15.0/build/src/3rdparty/argon2/CMakeFiles/argon2-xop.dir
+/home/codex/Downloads/xmrig-6.15.0/build/src/3rdparty/argon2/CMakeFiles/argon2-ssse3.dir
+/home/codex/Downloads/xmrig-6.15.0/build/src/3rdparty/argon2/CMakeFiles/argon2-sse2.dir
+/home/codex/Downloads/xmrig-6.15.0/build/src/3rdparty/libethash/CMakeFiles/rebuild_cache.dir
+/home/codex/Downloads/xmrig-6.15.0/build/src/3rdparty/libethash/CMakeFiles/edit_cache.dir
+/home/codex/Downloads/xmrig-6.15.0/build/src/3rdparty/libethash/CMakeFiles/ethash.dir
