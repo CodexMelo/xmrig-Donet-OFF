@@ -10,6 +10,9 @@ QUANDO POSSIVEL FAÇA UMA DOAÇÃO VOLUNTÁRIA PARA O DONO. PARA QUE ESSE PROJET
 XMR: 48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD
 
 Porém caso vocẽs querem por aventura mim ajudar claro que e opcional vou deixar minha carteira aqui
+Fazendo isso eu posso atualizar isso com mais frequência
 
 XMR: 84LEzszpqRf5abQejXm1fhJhPsFxMKivkiPuJTUvv8NKZPLPUhwo6ojYce2UuUKLcW74FekBADfM6gXA8Fvem3hgRE1ybTa
 DOJE: D7r4jkUwfKsbTFB2Wokd2dk5eMGiTBkZeu
+
+
