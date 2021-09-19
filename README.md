@@ -13,6 +13,7 @@ Porém caso vocẽs querem por aventura mim ajudar claro que e opcional vou deix
 Fazendo isso eu posso atualizar isso com mais frequência
 
 XMR: 84LEzszpqRf5abQejXm1fhJhPsFxMKivkiPuJTUvv8NKZPLPUhwo6ojYce2UuUKLcW74FekBADfM6gXA8Fvem3hgRE1ybTa
-DOJE: D7r4jkUwfKsbTFB2Wokd2dk5eMGiTBkZeu
+
+DOGE: D7r4jkUwfKsbTFB2Wokd2dk5eMGiTBkZeu
 
 
