@@ -1,0 +1,2 @@
+# xmrig-Donet-OFF
+ 
