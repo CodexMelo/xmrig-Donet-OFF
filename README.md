@@ -1,5 +1,7 @@
 # xmrig-donate-OFF 
-# versão: Xmrig v6.15.0
-# No Oficial
+# versão: Xmrig v6.15.0 No Oficial
 # official https://github.com/xmrig/xmrig
+
+AVISO ESSE PROJETO E APENAIS PARA DESATIVAR A DOAÇÃO AUTOMÁTICA: POREM NÃO VAMOS DESINCENTICAR O DONO DO PROJETO INTÃO.
+QUANDO POSSIVEL FAÇA UMA DOAÇÃO VOLUNTÁRIA PARA O DONO PARA QUE ESSE PROJETO NÃO MORRA
 
