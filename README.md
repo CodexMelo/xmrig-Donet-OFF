@@ -12,8 +12,8 @@ XMR: 48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVs
 Porém caso vocẽs querem por aventura mim ajudar claro que e opcional vou deixar minha carteira aqui
 Fazendo isso eu posso atualizar isso com mais frequência
 
-XMR: 84LEzszpqRf5abQejXm1fhJhPsFxMKivkiPuJTUvv8NKZPLPUhwo6ojYce2UuUKLcW74FekBADfM6gXA8Fvem3hgRE1ybTa
+XMR: 4ALhVaz3Z6yK8fkbZzsmqZ9e6gkuBLD9SJfNDMdd4RQqJhSESnFKZYVRwV45m1QVxpSNJxx3fQrY5crf9T3sExKfAx8t5iD
 
-DOGE: D7r4jkUwfKsbTFB2Wokd2dk5eMGiTBkZeu
+DOGE: D63gnFxkCkmDvxmo7pEqMgEu1jo2n2xsq6
 
 
